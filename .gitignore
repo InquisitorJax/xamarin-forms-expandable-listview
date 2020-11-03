@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ExpandableListView/v16/.suo
+/ExpandableListView/ExpandableListView/bin/Debug/netstandard2.0
+/ExpandableListView/ExpandableListView/obj
+/ExpandableListView/ExpandableListView.Android/bin/Debug
+/ExpandableListView/ExpandableListView.Android/obj
+/ExpandableListView/ExpandableListView.iOS/obj
+/ExpandableListView/ExpandableListView.UWP/obj
+/ExpandableListView/ExpandableListView.iOS/ExpandableListView.iOS.csproj.user
+/ExpandableListView/ExpandableListView.Android/ExpandableListView.Android.csproj.user
